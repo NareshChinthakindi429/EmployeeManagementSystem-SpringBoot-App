@@ -1,0 +1,28 @@
+@charset "UTF-8";
+body
+{
+	margin:auto;
+	width:600px;
+	border:2px solid blue;
+	padding:30px;
+	margin-top:20px;
+	 background-color: rgb(244, 189, 249);
+}
+
+h1
+{
+	text-align:center;
+	color: rgb(206, 53, 73);
+}
+div
+{
+	padding:0px 40px;
+	display:flex;
+	justify-content:space-between;
+}
+a
+{
+	color:blue;
+	padding:5px;
+	border-radius:5px;
+}

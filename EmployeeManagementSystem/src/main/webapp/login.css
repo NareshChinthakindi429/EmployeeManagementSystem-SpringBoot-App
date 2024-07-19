@@ -1,0 +1,46 @@
+@charset "UTF-8";
+body
+{
+	border:2px solid;
+	margin:auto;
+	width:600px;
+	padding:30px;
+	marhin-top:30px;
+	background-color: rgb(160, 168, 233);
+}
+div
+{
+	padding:0px 40px;
+	display:flex;
+	justify-content:space-between;
+}
+h1
+{
+	color:red;
+	text-align:center;
+}
+h2
+{
+	color:green;
+	text-align:center;
+}
+
+label{
+    display:inline-block;
+    width: 100px;
+    margin-left:50px;
+	}
+form
+{
+	border:1px solid;
+	margin:30px;
+	margin-bottom:10px;
+	padding:10px;
+	background-color: rgb(219, 169, 229);
+}
+.btn
+{
+	margin-left:200px;
+	margin-top:10px;
+	margin-bottom:20px;
+}

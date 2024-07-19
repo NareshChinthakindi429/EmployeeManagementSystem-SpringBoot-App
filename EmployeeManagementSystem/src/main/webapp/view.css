@@ -1,0 +1,44 @@
+@charset "UTF-8";
+body
+{
+	margin:auto;
+	width:600px;
+	border:2px solid blue;
+	padding:30px;
+	margin-top:20px;
+	background-color: rgb(245, 242, 238);
+	
+}
+div
+{
+	padding:0px 40px;
+	display:flex;
+	justify-content:space-between;
+	
+	
+}
+h2
+{
+	text-align:center;
+}
+
+form
+{
+	border:1px solid;
+	padding:20px;
+	width:400px;
+	margin:auto;
+	margin-top:60px;
+	background-color: rgb(221, 181, 190);
+	
+}
+
+label
+{
+	display:inline-block;
+	width:100px;
+}
+.btn
+{
+	margin-left:105px;
+}
